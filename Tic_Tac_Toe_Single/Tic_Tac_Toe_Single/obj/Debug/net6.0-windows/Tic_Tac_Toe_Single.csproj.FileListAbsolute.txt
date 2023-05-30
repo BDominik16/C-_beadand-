@@ -1,0 +1,17 @@
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\obj\Debug\net6.0-windows\Tic_Tac_Toe_Single.csproj.AssemblyReference.cache
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\obj\Debug\net6.0-windows\Tic_Tac_Toe_Single.Form1.resources
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\obj\Debug\net6.0-windows\Tic_Tac_Toe_Single.csproj.GenerateResource.cache
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\obj\Debug\net6.0-windows\Tic_Tac_Toe_Single.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\obj\Debug\net6.0-windows\Tic_Tac_Toe_Single.AssemblyInfoInputs.cache
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\obj\Debug\net6.0-windows\Tic_Tac_Toe_Single.AssemblyInfo.cs
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\obj\Debug\net6.0-windows\Tic_Tac_Toe_Single.csproj.CoreCompileInputs.cache
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\bin\Debug\net6.0-windows\Tic_Tac_Toe_Single.exe
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\bin\Debug\net6.0-windows\Tic_Tac_Toe_Single.deps.json
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\bin\Debug\net6.0-windows\Tic_Tac_Toe_Single.runtimeconfig.json
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\bin\Debug\net6.0-windows\Tic_Tac_Toe_Single.dll
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\bin\Debug\net6.0-windows\Tic_Tac_Toe_Single.pdb
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\obj\Debug\net6.0-windows\Tic_Tac_Toe_Single.dll
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\obj\Debug\net6.0-windows\refint\Tic_Tac_Toe_Single.dll
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\obj\Debug\net6.0-windows\Tic_Tac_Toe_Single.pdb
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\obj\Debug\net6.0-windows\Tic_Tac_Toe_Single.genruntimeconfig.cache
+C:\C# programozás\Tic_Tac_Toe_Single\Tic_Tac_Toe_Single\obj\Debug\net6.0-windows\ref\Tic_Tac_Toe_Single.dll

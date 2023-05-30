@@ -1,0 +1,17 @@
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\bin\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.exe
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\bin\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.deps.json
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\bin\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.runtimeconfig.json
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\bin\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.dll
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\bin\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.pdb
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\obj\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.csproj.AssemblyReference.cache
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\obj\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.Form1.resources
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\obj\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.csproj.GenerateResource.cache
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\obj\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\obj\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.AssemblyInfoInputs.cache
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\obj\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.AssemblyInfo.cs
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\obj\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.csproj.CoreCompileInputs.cache
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\obj\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.dll
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\obj\Debug\net6.0-windows\refint\Tic_Tac_Toe_beadandó.dll
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\obj\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.pdb
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\obj\Debug\net6.0-windows\Tic_Tac_Toe_beadandó.genruntimeconfig.cache
+C:\C# programozás\Tic_Tac_Toe_beadandó\Tic_Tac_Toe_beadandó\obj\Debug\net6.0-windows\ref\Tic_Tac_Toe_beadandó.dll
